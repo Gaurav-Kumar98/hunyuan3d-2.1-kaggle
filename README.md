@@ -1,5 +1,7 @@
 # Hunyuan3D 2.1 on Kaggle (free, both T4 GPUs)
 
+![Image to 3D model, free on Kaggle's two T4 GPUs](assets/cover.jpg)
+
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/Gaurav-Kumar98/hunyuan3d-2.1-kaggle/blob/main/hunyuan3d_2_1_kaggle_dual_t4.ipynb)
 
 A free Kaggle notebook that turns images into textured 3D models (`.glb` with PBR textures) using
